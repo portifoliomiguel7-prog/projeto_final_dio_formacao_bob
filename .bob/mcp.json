@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "opportunity-explorer": {
+      "command": "node",
+      "args": ["mcp/build/index.js"],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}

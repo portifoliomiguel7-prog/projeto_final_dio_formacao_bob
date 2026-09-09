@@ -1,0 +1,134 @@
+[
+  {
+    "id": "opp-001",
+    "title": "Backend Developer Node.js",
+    "company": "TechCorp Brasil",
+    "type": "job",
+    "source": "linkedin",
+    "skills": ["Node.js", "TypeScript", "PostgreSQL", "REST API"],
+    "level": "mid",
+    "description": "Desenvolvimento e manutenção de APIs REST com Node.js e TypeScript. Experiência com PostgreSQL e boas práticas de versionamento com Git.",
+    "status": "new"
+  },
+  {
+    "id": "opp-002",
+    "title": "Desenvolvedor React Pleno",
+    "company": "Startup Fintech XP",
+    "type": "job",
+    "source": "gupy",
+    "skills": ["React", "TypeScript", "CSS", "REST API"],
+    "level": "mid",
+    "description": "Criação de interfaces modernas para aplicação financeira usando React e TypeScript. Integração com APIs REST e testes com Jest.",
+    "status": "applied"
+  },
+  {
+    "id": "opp-003",
+    "title": "Freelance – Automação com n8n",
+    "company": "Agência Digital Nova",
+    "type": "freelance",
+    "source": "workana",
+    "skills": ["n8n", "REST API", "Webhooks"],
+    "level": "any",
+    "description": "Configuração de fluxos de automação no n8n para integração entre CRM, e-mail marketing e plataforma de e-commerce via webhooks e REST.",
+    "status": "new"
+  },
+  {
+    "id": "opp-004",
+    "title": "Engenheiro Full Stack – Next.js",
+    "company": "Produto SaaS BR",
+    "type": "job",
+    "source": "linkedin",
+    "skills": ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL"],
+    "level": "senior",
+    "description": "Responsável pela arquitetura e evolução do produto SaaS. Stack principal: Next.js no frontend, Node.js/Express no backend, PostgreSQL como banco de dados.",
+    "status": "new"
+  },
+  {
+    "id": "opp-005",
+    "title": "Data Engineer – Python e PostgreSQL",
+    "company": "DataHub Consultoria",
+    "type": "job",
+    "source": "gupy",
+    "skills": ["Python", "PostgreSQL", "SQL", "ETL"],
+    "level": "senior",
+    "description": "Construção e manutenção de pipelines de dados com Python. Modelagem de dados relacionais em PostgreSQL e desenvolvimento de processos de ETL.",
+    "status": "discarded"
+  },
+  {
+    "id": "opp-006",
+    "title": "Freelance – API REST com Node.js",
+    "company": "Cliente Direto – E-commerce",
+    "type": "freelance",
+    "source": "99freelas",
+    "skills": ["Node.js", "TypeScript", "REST API", "MongoDB"],
+    "level": "mid",
+    "description": "Desenvolvimento de API REST para sistema de pedidos de e-commerce. Autenticação JWT, CRUD de produtos e integração com gateway de pagamento.",
+    "status": "in_progress"
+  },
+  {
+    "id": "opp-007",
+    "title": "Tech Lead Frontend",
+    "company": "Grupo Mídia Digital",
+    "type": "job",
+    "source": "direct",
+    "skills": ["React", "Next.js", "TypeScript", "Design System"],
+    "level": "lead",
+    "description": "Liderar o time de frontend no desenvolvimento de um novo design system e na migração de aplicação legada para Next.js com SSR.",
+    "status": "new"
+  },
+  {
+    "id": "opp-008",
+    "title": "Desenvolvedor Backend Júnior",
+    "company": "Agência Web Start",
+    "type": "job",
+    "source": "gupy",
+    "skills": ["Node.js", "JavaScript", "REST API", "MySQL"],
+    "level": "junior",
+    "description": "Oportunidade de entrada para desenvolvedor backend. Manutenção de APIs Node.js, integração com banco MySQL e versionamento com GitHub.",
+    "status": "new"
+  },
+  {
+    "id": "opp-009",
+    "title": "Freelance – Script Python para Coleta de Dados",
+    "company": "Pesquisadora Independente",
+    "type": "freelance",
+    "source": "workana",
+    "skills": ["Python", "Web Scraping", "pandas"],
+    "level": "any",
+    "description": "Desenvolvimento de script em Python para extração e tratamento de dados de portais públicos. Saída em CSV usando pandas.",
+    "status": "applied"
+  },
+  {
+    "id": "opp-010",
+    "title": "Desenvolvedor TypeScript – Microsserviços",
+    "company": "CloudSystems LTDA",
+    "type": "job",
+    "source": "linkedin",
+    "skills": ["TypeScript", "Node.js", "Docker", "REST API", "PostgreSQL"],
+    "level": "senior",
+    "description": "Arquitetura e desenvolvimento de microsserviços com TypeScript e Node.js. Containers Docker, integração entre serviços via REST e banco PostgreSQL.",
+    "status": "new"
+  },
+  {
+    "id": "opp-011",
+    "title": "Freelance – Integração n8n com Notion e Google Sheets",
+    "company": "Consultor de Operações",
+    "type": "freelance",
+    "source": "direct",
+    "skills": ["n8n", "Notion API", "Google Sheets API", "REST API"],
+    "level": "any",
+    "description": "Criação de automação no n8n para sincronizar dados entre Notion e Google Sheets automaticamente via APIs REST. Foco em fluxos de gestão de projetos.",
+    "status": "closed"
+  },
+  {
+    "id": "opp-012",
+    "title": "Desenvolvedor Next.js – Plataforma Educacional",
+    "company": "EduTech Soluções",
+    "type": "job",
+    "source": "other",
+    "skills": ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL"],
+    "level": "mid",
+    "description": "Desenvolvimento de plataforma educacional com Next.js, integração com LMS via API REST, autenticação OAuth e persistência em PostgreSQL.",
+    "status": "new"
+  }
+]
